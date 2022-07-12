@@ -8,7 +8,7 @@ I've been learning to draw over the years :smile:
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Vue.js](https://img.shields.io/badge/krita-%FFFFFFFF.svg?style=for-the-badge&logo=krita&logoColor=%00000000)
+![Krita](https://img.shields.io/badge/krita-%2335495e.svg?style=for-the-badge&logo=krita&logoColor=%234FC08D)
 
 :star: Here are some projects that I'm working on:
 - [UniversalVR](https://github.com/UniversalVirtualResort)
