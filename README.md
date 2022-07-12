@@ -20,4 +20,4 @@ I've been learning to draw over the years :smile:
 
 **Contact:**
 <br>
-<img src="https://img.shields.io/badge/Discord-iq%232360-%2336393F?style=for-the-badge"></img>
+<img src="https://img.shields.io/badge/-iq%232360-%2336393F?style=for-the-badge&logo=discord"></img>
