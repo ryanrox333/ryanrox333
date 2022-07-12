@@ -14,7 +14,7 @@ I've been learning to draw over the years :smile:
 - [Hypickle](https://github.com/HypickleServer)
 - [ThemeParksPro](https://github.com/ThemeParksPro)
 <h1 align="center">
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=2&username=ryanrox333">
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=0&username=ryanrox333">
 </h1>
 <br>
 
