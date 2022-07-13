@@ -13,7 +13,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 - [Hypickle](https://github.com/HypickleServer)
 - [ThemeParksPro](https://github.com/ThemeParksPro)
 <h1 align="center">
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ryanrox333&theme=dark">
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ryanrox333">
 </h1>
 <br>
 
