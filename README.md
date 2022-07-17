@@ -20,5 +20,5 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 **Contact:**
 <br>
 <p>
-<img src="https://img.shields.io/badge/-iq%232360-%2336393F?style=for-the-badge&logo=discord"></img>  <a href="https://www.youtube.com/channel/UCTld6fqhXkhZ-UbBiwXOOPw"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"></a>  <a href="https://twitch.tv/1iq_live"><img src="https://img.shields.io/badge/-Twitch-6441a5?style=for-the-badge&logo=twitch"></a>
+<img src="https://img.shields.io/badge/-iq%232360-%2336393F?style=for-the-badge&logo=discord"></img>  <a href="https://www.youtube.com/channel/UCTld6fqhXkhZ-UbBiwXOOPw"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"></a>  <a href="https://twitch.tv/1iq_live"><img src="https://img.shields.io/badge/-Twitch-6441a5?style=for-the-badge&logo=twitch?logoColor=white"></a>
 </p>
