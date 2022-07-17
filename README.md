@@ -19,4 +19,4 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 **Contact:**
 <br>
-<img src="https://img.shields.io/badge/-iq%232360-%2336393F?style=for-the-badge&logo=discord"></img>
+<img src="https://img.shields.io/badge/-iq%232360-%2336393F?style=for-the-badge&logo=discord"></img><a href="https://www.youtube.com/channel/UCTld6fqhXkhZ-UbBiwXOOPw"><img src="https://img.shields.io/badge/-YouTube%FFFFFF-white?style=for-the-badge&logo=youtube"></a>
