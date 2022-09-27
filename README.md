@@ -4,7 +4,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 :page_with_curl: I'm currently learning:
 <br><br>
 ![JavaScript](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vue.js](https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 :page_with_curl: Applications I use:
 <br><br>
