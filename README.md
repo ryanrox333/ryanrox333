@@ -13,9 +13,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ![VSCode](https://img.shields.io/badge/VSCode-3EACF2.svg?style=for-the-badge&logo=vscode&logoColor=white)
 
 :star: Here are some projects that I'm working on:
-- [UniversalVR](https://github.com/UniversalVirtualResort)
-- [Hypickle](https://github.com/HypickleServer)
-- [ThemeParksPro](https://github.com/ThemeParksPro)
+- [2Watch](https://github.com/2WatchGH)
+- [V4nguard](https://github.com/V4nguard)
 <h1 align="center">
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ryanrox333">
 </h1>
